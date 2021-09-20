@@ -11,9 +11,10 @@ Also, (although it may not be relevant) I am very passionate about IA and design
 
 ## Skills ✅
 - 👨‍💻 TypeScript, JavaScript, HTML
-- ⚙️ React, Vue, Next.js
+- ⚙️ React, Vue, Next.js, Redux
 - 👁️ SASS, CSS
 - 💽 MongoDB, Node.js , Mongoose
+- ⚠️ Unit Testing, Jest and TDD
 - 💅🏻 Figma, UI-UX
 
 ## Contact 📩
