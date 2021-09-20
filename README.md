@@ -17,6 +17,6 @@ Also, (although it may not be relevant) I am very passionate about IA and design
 - 💅🏻 Figma, UI-UX
 
 ## Contact 📩
-- <a href="mailto:iam@andygarcia.dev">iam@andygarcia.dev</a>
-- <a href="www.linkedin.com/in/andygarcia-dev">Andy Garcia<a/> on LinkedIn
+- <a href="mailto:iam@andygarcia.dev" target="_blank">iam@andygarcia.dev</a>
+- <a href="www.linkedin.com/in/andygarcia-dev" target="_blank">Andy Garcia<a/> on LinkedIn
 - Tanjiro#6954 on Discord
