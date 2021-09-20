@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**AndyGaSa/AndyGaSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://github.com/AndyGaSa/AndyGaSa/blob/main/AndyGarciaGif.gif" alt="Andy Garcia" />
+</h1>
 
-Here are some ideas to get you started:
+# Hey! 👋
+I'm Andy, a 21 years old software developer from Spain specialized in MERN tech stack with experience in planning, managing & developing projects from scratch. 
+I focus on clean code practices and delivering the maximum value. 
+Also, (although it may not be relevant) I am very passionate about IA and design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills ✅
+- 👨‍💻 TypeScript, JavaScript, HTML
+- ⚙️ React, Vue, Next.js
+- 👁️ SASS, CSS
+- 💽 MongoDB, Node.js , Mongoose
+- 💅🏻 Figma, UI-UX
+
+## Contact 📩
+- [iam@andygarcia.dev](mailto:iam@andygarcia.dev)
+- [Andy Garcia](www.linkedin.com/in/andygarcia-dev) on LinkedIn
+- [Tanjiro#6954](./) on Discord
