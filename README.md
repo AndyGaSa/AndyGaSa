@@ -18,5 +18,5 @@ Also, (although it may not be relevant) I am very passionate about IA and design
 
 ## Contact 📩
 - <a href="mailto:iam@andygarcia.dev" target="_blank">iam@andygarcia.dev</a>
-- <a href="www.linkedin.com/in/andygarcia-dev" target="_blank">Andy Garcia<a/> on LinkedIn
+- <a href="https://www.linkedin.com/in/andygarcia-dev" target="_blank">Andy Garcia<a/> on LinkedIn
 - Tanjiro#6954 on Discord
