@@ -4,7 +4,7 @@
 </h1>
 
 # Hey! 👋
-I'm Andy, a 21 years old software developer from Spain specialized in the MERN tech stack with experience in planning, managing & developing projects from scratch. 
+I'm Andy, a 23 years old software developer from Spain specialized in the MERN tech stack with experience in planning, managing & developing projects from scratch. 
 I focus on clean code practices and delivering the maximum value. 
 Also, (although it may not be relevant) I am very passionate about IA and design. 
 
