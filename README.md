@@ -6,7 +6,6 @@
 # Hey! 👋
 I'm Andy, a 23 years old software developer from Spain specialized in the MERN tech stack with experience in planning, managing & developing projects from scratch. 
 I focus on clean code practices and delivering the maximum value. 
-Also, (although it may not be relevant) I am very passionate about IA and design. 
 
 
 ## Skills ✅
@@ -20,4 +19,3 @@ Also, (although it may not be relevant) I am very passionate about IA and design
 ## Contact 📩
 - <a href="mailto:iam@andygarcia.dev" target="_blank">iam@andygarcia.dev</a>
 - <a href="https://www.linkedin.com/in/andygarcia-dev" target="_blank">Andy Garcia<a/> on LinkedIn
-- Tanjiro#6954 on Discord
